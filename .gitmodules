@@ -3,7 +3,9 @@
 	url = https://github.com/Shuiliusheng/boom_stop.git
 [submodule "boom-dev"]
 	path = boom-dev
-	url = https://github.com/chensx00/boom-perf-dev.git
+	url = https://github.com/Rrriny/BOOMv3.git
+	branch = experiment/multilevel-bpd-ablation
 [submodule "vivado-risc-v-dev"]
 	path = vivado-risc-v-dev
-	url = https://github.com/chensx00/vivado-risc-v-boom.git
+	url = https://github.com/Rrriny/vivado-risc-v-boom.git
+	branch = experiment/bpd-ablation-fpga-configs
