@@ -6,7 +6,7 @@
 	url = https://github.com/chensx00/boom-perf-dev.git
 [submodule "vivado-risc-v-dev"]
 	path = vivado-risc-v-dev
-	url = https://github.com/chensx00/vivado-risc-v-boom.git
+	url = https://github.com/Rrriny/vivado-risc-v-boom.git
 [submodule "benchmark-dhrystone"]
 	path = benchmark-dhrystone
 	url = https://github.com/sifive/benchmark-dhrystone.git
